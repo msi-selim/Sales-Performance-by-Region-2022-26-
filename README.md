@@ -1,4 +1,4 @@
-### Project Overview: Sales Performance by Region (2022-2026)
+### Sales Performance by Region (2022-2026)
 
 ### Data Source:
 The data for this project was collected from Excelx.com and meticulously cleaned and structured within Microsoft Excel.
